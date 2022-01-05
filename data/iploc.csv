@@ -1,0 +1,210 @@
+anyID,"address","city","state","zip","country"
+BIGPINK,"56 Parnassus Ln","West Saugerties","NY","12477","USA"
+ERICC,461 Ocean Boulevard,GOLDEN BEACH,FL,33160,USA
+DYLANHWY61,MN 61,DULUTH,MN,55812,USA
+IPHQ9,,,,38197, USA
+MEMPHO,,MEMPHIS,,,USA
+MEMPHO,,MEMPHIS,,38120,USA
+CORKYS,5255 POPLAR,,,38119,USA
+WRONGZIP,5255 POPLAR,,,38120,USA
+typoCORKZZ,5525 POPLAR,,,38119,USA
+typoWRONGZIP2,5525 POPLAR,,,38120,USA
+NFLATL,,Atlanta,Georgia,,USA
+NFLBAL,,Baltimore,Maryland,,USA
+NFLNE,,Boston,Massachusetts,,USA
+NFLBUF,,Buffalo,New York,,USA
+NFLCAR,,Charlotte,North Carolina,,USA
+NFLCHI,,Chicago,Illinois,,USA
+eCHI,,Chicago,IL,,USA
+fCHI,,Cicaggo,Illinois,,USA
+gCHI,,Cicaggo,Illinois,,USA
+hCHI,,Chitown,IL,,USA
+iCHI,,WindyCity,IL,,USA
+NFLCIN,,Cincinatti,Ohio,,USA
+NFLCLE,,Cleveland,Ohio,,USA
+NFLDAL,,Dallas,Texas,,USA
+NFLDEN,,Denver,Colorado,,USA
+NFLDET,,Detroit,Michigan,,USA
+NFLIND,,Indianapolis,Indiana,,USA
+NFLJAC,,Jacksonville,Florida,,USA
+NFLKC,,Kansas City,Missouri,,USA
+NFLMIA,,Miami,Florida,,USA
+NFLGB,,Green Bay,Wisconsin,,USA
+NFLMIN,,Minneapolis,Minnessota,,USA
+NFLTEN,,Nashville,Tennessee,,USA
+NFLNO,,New Orleans,Louisiana,,USA
+NFLNYJ,,New York,New York,,USA
+NFLNYG,,New York,New York,,USA
+NFLRAIDERS,,LAS VEGAS,NEVADA,,USA
+NFLPHI,,Philadelphia,Pennsylvania,,USA
+ePHI,,Philly,PA,,USA
+NFLARI,,Phoenix,Arizona,,USA
+NFLPIT,,Pittsburgh,Pennsylvania,,USA
+NFLRAMS,,LOS ANGELES,CALIFORNIA,,USA
+NFLCHARGERS,,ANAHEIM,CALIFORNIA,,USA
+NFLSF,,San Francisco,California,,USA
+NFLSEA,,Seattle,Washington,,USA
+NFLTB,,Tampa,Florida,,USA
+NFLWAS,,Washington,DC,,USA
+NFLHOU,,Houston,Texas,,USA
+"7225","4715 NE 24TH AVE","Amarillo","TX","79107","US"
+"7168","601 E BALL RD","Anaheim","CA","92805","US"
+"0191","1300 RED FOX RD","Arden Hills","MN","55112","US"
+"0512","175 Allied Rd.","Auburn","ME","04210","US"
+"7186","4160 CAMPUS DR","Aurora","IL","60504","US"
+"7418","2540 PROSPECT CT","Aurora","IL","60502","US"
+"7201","1900 8TH ST NE","Austin","MN","55912","US"
+"7214","100 E GLOUCESTER PIKE","Barrington","NJ","08007","US"
+"0172","100 DICKMAN RD","Bay Minette","AL","36507","US"
+"7221","5500 SW WESTERN AVE","Beaverton","OR","97005","US"
+"7188","5300 W 73RD ST","Bedford Park","IL","60638","US"
+"7401","5991 BANDINI BLVD","Los Angeles","CA","90040","US"
+"7189","3001 OTTO ST","Belleville","IL","62226","US"
+"7215","370 BENIGNO BLVD","Bellmawr","NJ","08031","US"
+"7391","2605 E BELT LINE RD","Carrollton","TX","75006","US"
+"7388","136 E YORK ST","Biglerville","PA","17307","US"
+"7430","1240 CONKLIN RD","Conklin","NY","13748","US"
+"7419","501 Avenue U","Bogalusa","LA","70427","US"
+"7195","5150 NASHVILLE RD","Bowling Green","KY","42101","US"
+"7192","2626 COUNTY ROAD 71","Butler","IN","46721","US"
+"7176","2000 PLEASANT VALLEY RD","Camarillo","CA","93010","US"
+"0198","1655 S Interstate 35E","Carrollton","TX","75006","US"
+"0162","1350 E 223RD ST","Carson","CA","90745","US"
+"7184","920 SHAVER RD NE","Cedar Rapids","IA","52402","US"
+"7210","5419 HOVIS RD","Charlotte","NC","28208","US"
+"7224","2401 BLUE SPRINGS RD SE","Cleveland","TN","37311","US"
+"7180","4847 CARGO DR","Columbus","GA","31907","US"
+"7169","19615 S SUSANA RD","Compton","CA","90221","US"
+"0559","730 Enterprise Ave","Conway","AR","72032","US"
+"7399","801 N ENGLEWOOD DR","Crawfordville","IN","47933","US"
+"0394","151 Ipsco","Decatur","AL","35601","US"
+"7217","875 PITTSBURGH DR","Delaware","OH","43015","US"
+"0433","100 E Oakton St","Des Plaines","IL","60018","US"
+"7218","900 US ROUTE 35 W","Eaton","OH","45320","US"
+"0184","1501 N CLOSNER BLVD","Edinburg","TX","78541","US"
+"6960","10 WILSON RD","Eighty Four","PA","15330","US"
+"0140","9301 Billy The Kid St","El Paso","TX","79907","US"
+"7170","10268 WATERMAN RD","Elk Grove","CA","95624","US"
+"7171","1111 N ANDERSON RD","Exeter","CA","93221","US"
+"0186","981 S HICKORY ST","Fond du Lac","WI","54935","US"
+"0552","5115 Pinetree St","Forest Park","GA","30297","US"
+"7164","4215 PLANTERS RD","Fort Smith","AR","72908","US"
+"7403","4500 NEWLON RD","Fort Smith","AR","72904","US"
+"0707","3904 Ferguson Rd","Fort Wayne","IN","46809","US"
+"7407","2502 W US HIGHWAY 50","Garden City","KS","67846","US"
+"0174","1480 INTERNATIONAL DR","Georgetown","SC","29440","US"
+"7421","6400 Jamieson Way","Gilroy","CA","95020","US"
+"7177","4565 INDIANA ST","Golden","CO","80403","US"
+"7226","1200 W. CARRIER PKWY","Grand Prairie","TX","75050","US"
+"7181","330 HUDSON RD","Griffin","GA","30224","US"
+"7402","533 FOREST RD","Hazleton","PA","18202","US"
+"0409","511 Third St","Houston","MS","38851","US"
+"7207","211 CARRIER BLVD","Richland","MS","39218","US"
+"0321","4343 Clary Blvd.","Kansas City","MO","64130","US"
+"0728","204 S Park Rd","Lafayette","LA","70508","US"
+"0743","801 Fountain Ave","Lancaster","PA","17601","US"
+"6958","21313 HIGHWAY 221 N","Laurens","SC","29360","US"
+"0312","2575 Palumbo Dr","Lexington","KY","40509","US"
+"7406","129 ZENKER RD","Lexington","SC","29072","US"
+"7190","1601 5TH ST","Lincoln","IL","62656","US"
+"7182","6792 MARBUT RD","Lithonia","GA","30058","US"
+"7196","4400 PROGRESS BLVD","Louisville","KY","40218","US"
+"7211","820 CATON RD","Lumberton","NC","28360","US"
+"7229","3491 MAYFLOWER DR","Lynchburg","VA","24501","US"
+"7208","350 PRESCOTT DR","Magnolia","MS","39652","US"
+"7235","2000 S 18TH ST","Manitowoc","WI","54220","US"
+"7435","967 US HIGHWAY 1 S","Manson","NC","27553","US"
+"7422","1600 Cascade Drive","Marion","OH","43302","US"
+"7227","200 N 26TH ST","McAllen","TX","78501","US"
+"7383","912 NELBAR ST","Middletown","OH","45042","US"
+"0183","660 MARIPOSA RD","Modesto","CA","95354","US"
+"7187","1001 KNELL ST","Montgomery","IL","60538","US"
+"0379","5032 S DAVY CROCKETT PKWY","Morristown","TN","37813","US"
+"7232","13594 WHEELER RD NE","Moses Lake","WA","98837","US"
+"0193","2164 LOCUST GAP HWY","Mt. Carmel","PA","17851","US"
+"7219","8800 GRANVILLE RD","Mt. Vernon","OH","43050","US"
+"0168","2220 NW BROAD ST","Murfreesboro","TN","37129","US"
+"6959","1851 TAMARACK RD","Newark","OH","43055","US"
+"7212","1525 MOUNT OLIVE CHURCH RD","Newton","NC","28658","US"
+"6948","401 NORTHWEST AVE","Northlake","IL","60164","US"
+"7220","4901 WESTPOINT BLVD","Oklahoma City","OK","73179","US"
+"7209","8301 HACKS CROSS RD","Olive Branch","MS","38654","US"
+"7233","7727 Union Mills Rd. SE","Lacey","WA","98503","US"
+"7213","7517 F ST","Omaha","NE","68127","US"
+"7409","5110 JURUPA ST","Ontario","CA","91761","US"
+"7387","711 E LANCASTER RD","Orlando","FL","32809","US"
+"7405","2333 WELLS RD","Petersburg","VA","23805","US"
+"7166","660 S 83RD AVE","Tolleson","AZ","85353","US"
+"7178","2402 POLICE CENTER DR","Plant City","FL","33566","US"
+"7223","1601 NE 192ND AVE","Portland","OR","97230","US"
+"0167","175 PARK RD","Putnam","CT","06260","US"
+"0384","2811 Cofer Rd","Richmond","VA","23224","US"
+"7216","200 BOXART ST","Rochester","NY","14612","US"
+"7191","2100 23RD AVE","Rockford","IL","61104","US"
+"0190","3900 International Dr","Russellville","AR","72802","US"
+"7173","1345 HARKINS RD","Salinas","CA","93901","US"
+"7424","1111 AT AND T CENTER PKWY","San Antonio","TX","78219","US"
+"7174","1000 MUSCAT AVE","Sanger","CA","93657","US"
+"7400","11211 GREENSTONE AVE","Santa Fe Springs","CA","90670","US"
+"7438","9211 NORWALK BLVD","Santa Fe Springs","CA","90670","US"
+"0425","1201 W Lathrop Ave","Savannah","GA","31415","US"
+"7228","1485 SILLIMAN ST","Sealy","TX","77474","US"
+"7394","3900 STATE HIGHWAY 101","Shakapee","MN","55379","US"
+"7397","140 SUMMERHILL RD","Spotswood","NJ","08884","US"
+"0175","3000 S ARKANSAS ST","Springhill","LA","71075","US"
+"7206","4725 EASTON RD","St. Joseph","MO","64503","US"
+"7396","1201 N HIGHWAY DR","St. Louis","MO","63120","US"
+"0192","930 MEACHAM RD","Statesville","NC","28677","US"
+"0563","3550 Bozzano Rd","Stockton","CA","95215","US"
+"7386","700 MONDIAL PKWY","Streetsboro","OH","44142","US"
+"7179","6706 N 53RD ST","Tampa","FL","33610","US"
+"7198","1321 3RD ST","Three Rivers","MI","49093","US"
+"7395","400 W VALPICO RD","Tracy","CA","95376","US"
+"7185","800 W PARKER ST","Waterloo","IA","50703","US"
+"7404","5000 OAK ST","Wheat Ridge","CO","80033","US"
+"7204","1699 9TH ST","White Bear Lake","MN","55110","US"
+"0178","689 PALMER ST","Wooster","OH","44691","US"
+"7234","600 W AHTANUM RD","Union Gap","WA","98903","US"
+"7167","2641 E 24TH ST","Yuma","AZ","85365","US"
+"0010","568 Shore Airport Rd","TICONDEROGA","NY","12883","US"
+"0205","601 County Rd 78","SELMA","AL","36703","US"
+"0240","3737 Hwy 3 N","VICKSBURG","MS","39180","US"
+"0259","700 S Kaminski St","GEORGETOWN","SC","29440","US"
+"0268","1202 HIGHWAY 509","MANSFIELD","LA","71052","US"
+"0618","375 MUSCOGEE RD","CANTONMENT","FL","32533","US"
+"0661","865 John L. Riegel Rd","REIGELWOOD","NC","28546","US"
+"0769","4001 Mc Cords Ferry Rd","EASTOVER","SC","29044","US"
+"0776","34040 UNION CAMP DR","FRANKLIN","VA","23851","US"
+"0867","100 Jensen Rd","PRATTVILLE","AL","36067","US"
+"0899","1201 W LATHROP AVE","SAVANNAH","GA","31402","US"
+"7108","4600 C ST SW","CEDAR RAPIDS","IA","52404","US"
+"7109","1500 COMMONWEALTH DR","HENDERSON","KY","42420","US"
+"7110","4537 HIGHWAY 480","CAMPTI","LA","71411","US"
+"7113","890 INTERNATIONAL PAPER LN","VALLIANT","OK","74764","US"
+"7115","801 42ND ST","SPRINGFIELD","OR","97478","US"
+"7442","2585 E 200 N","CAYUGA","IN","47928","US"
+"7444","238 MAYS BRIDGE RD SW","ROME","GA","30165","US"
+"7445","401 AVENUE U","BOGALUSA","LA","70427","US"
+"7446","1241 W 2ND ST","MAYSVILLE","KY","41056","US"
+"7448","1750 INLAND RD","ORANGE","TX","77632","US"
+"7619","371 Manufacturers Dr","COLUMBUS","MS","39702","US"
+"7620","2449 Stagecoach Rd","OGLETHORPE","GA","31068","US"
+"7621","1785 Weyerhaeuser Road","Vanceboro","NC","28586","US"
+"7622","4335 Carson Rd","COLUMBUS","MS","39701","US"
+"7623","1 Bonnybridge Rd","PORT WENTWORTH","GA","31407","US"
+"IPHQ","6400 POPLAR AVENUE","Memphis","TN","38119","US"
+"9004","#N/A","Florence","NJ","08518","US"
+"9005","#N/A","LA MIRADA","CA","90638","US"
+"9006","1645 Market Dr SE","ATLANTA","GA","30316","US"
+"9436","1601 NE 192nd Ave","PORTLAND","OR","97220","US"
+"9439","180 Progress Avenue","SPRINGFIELD","MA","01104","US"
+"9000","4600 RAILHEAD RD","Dallas","TX","75380","US"
+"9002","2501 165TH ST","Hammond","IN","46320","US"
+"0519","1145 Union Camp Blvd","Sumter","SC","29154","US"
+"iptc","6283 Tri-Ridge Blvd","Loveland","OH","45140","US"
+"7106","7600 HIGHWAY 10 W","Pine Hill","AL","36769","US"
+"RCLT","5419 Hovis Rd","Charlotte","NC","28206","US"
+"RNOR","#N/A","Norwalk","CA","90650","US"
+"ROMA","#N/A","Omaha","NE","68112","US"
+"RSLC","#N/A","Salt Lake City","UT","84104","US"
+"RWIT","#N/A","Wichita","KS","67215","US"

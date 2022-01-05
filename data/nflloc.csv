@@ -1,0 +1,39 @@
+anyid,address,city,state,zip,country
+NFLATL,,Atlanta,Georgia,,USA
+NFLBAL,,Baltimore,Maryland,,USA
+NFLNE,,Boston,Massachusetts,,USA
+NFLBUF,,Buffalo,New York,,USA
+NFLCAR,,Charlotte,North Carolina,,USA
+NFLCHI,,Chicago,Illinois,,USA
+eCHI,,Chicago,IL,,USA
+fCHI,,Cicaggo,Illinois,,USA
+gCHI,,Cicaggo,Illinois,,USA
+hCHI,,Chitown,IL,,USA
+iCHI,,WindyCity,IL,,USA
+NFLCIN,,Cincinatti,Ohio,,USA
+NFLCLE,,Cleveland,Ohio,,USA
+NFLDAL,,Dallas,Texas,,USA
+NFLDEN,,Denver,Colorado,,USA
+NFLDET,,Detroit,Michigan,,USA
+NFLIND,,Indianapolis,Indiana,,USA
+NFLJAC,,Jacksonville,Florida,,USA
+NFLKC,,Kansas City,Missouri,,USA
+NFLMIA,,Miami,Florida,,USA
+NFLGB,,Green Bay,Wisconsin,,USA
+NFLMIN,,Minneapolis,Minnessota,,USA
+NFLTEN,,Nashville,Tennessee,,USA
+NFLNO,,New Orleans,Louisiana,,USA
+NFLNYJ,,New York,New York,,USA
+NFLNYG,,New York,New York,,USA
+NFLRAIDERS,,LAS VEGAS,NEVADA,,USA
+NFLPHI,,Philadelphia,Pennsylvania,,USA
+ePHI,,Philly,PA,,USA
+NFLARI,,Phoenix,Arizona,,USA
+NFLPIT,,Pittsburgh,Pennsylvania,,USA
+NFLRAMS,,LOS ANGELES,CALIFORNIA,,USA
+NFLCHARGERS,,ANAHEIM,CALIFORNIA,,USA
+NFLSF,,San Francisco,California,,USA
+NFLSEA,,Seattle,Washington,,USA
+NFLTB,,Tampa,Florida,,USA
+NFLWAS,,Washington,DC,,USA
+NFLHOU,,Houston,Texas,,USA
