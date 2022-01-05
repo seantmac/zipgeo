@@ -1,10 +1,10 @@
 ##keys.py
 # User Agent identification (e.g., email address) for Nominatim
 # (Querying without user agent is against ToS)
-n_user = 'ippy_geo_SeanTMac'
+n_user = 'nope'
 
 # Bing API key
-bing_key = 'AoJJuYV8QP9lu9YBLEZm73yStVpT3N-mLfFIF50O9bry_ke5lkIsFxLohMxGbDmi'
+bing_key = 'nononono'
 
 # OpenCage API key
 oc_key = '7779311'
